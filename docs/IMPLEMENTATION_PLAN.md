@@ -46,4 +46,4 @@
 - [x] Prometheus에서 Spring Boot와 k6 시계열을 조회한다.
 - [x] Grafana에서 provisioned 대시보드가 열리고 데이터가 나타난다.
 - [x] 실제 실행 수치와 환경 정보를 `EXPERIMENT_LOG.md`에 기록한다.
-- [ ] 원격 GitHub 저장소에 커밋과 push를 완료한다.
+- [x] 원격 GitHub 저장소에 커밋과 push를 완료한다.

@@ -1,0 +1,12 @@
+apiVersion: 1
+
+providers:
+  - name: Spring Boot k6 dashboards
+    orgId: 1
+    folder: Load Test Lab
+    type: file
+    disableDeletion: true
+    editable: true
+    updateIntervalSeconds: 5
+    options:
+      path: /var/lib/grafana/dashboards
